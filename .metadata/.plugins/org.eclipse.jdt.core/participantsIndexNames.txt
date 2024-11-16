@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\BTL\JavaNC\Code\laptop-shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2397320902.index
+\laptop-shop\src\main\java
+C:\BTL\JavaNC\Code\laptop-shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2497423520.index
+\laptop-shop\src\main\java
+C:\BTL\JavaNC\Code\laptop-shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2754726020.index
+\laptop-shop\src\main\java
+C:\BTL\JavaNC\Code\laptop-shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\136093100.index
+\laptop-shop\src\main\java
+C:\BTL\JavaNC\Code\laptop-shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1688359874.index
+\laptop-shop\src\main\java
+C:\BTL\JavaNC\Code\laptop-shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2655950585.index
+\laptop-shop\src\main\java

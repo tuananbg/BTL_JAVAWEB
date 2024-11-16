@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="laptop-shop/src/main/java"/>
+	<classpathentry kind="src" path="laptop-shop/src/test/java"/>
+	<classpathentry kind="src" path="laptop-shop/target/generated-sources/java"/>
+	<classpathentry kind="lib" path="laptop-shop/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="laptop-shop/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="laptop-shop/target/laptop-shop-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="laptop-shop/target/classes"/>
+</classpath>
